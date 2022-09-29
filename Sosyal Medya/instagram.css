@@ -1,0 +1,80 @@
+body{
+                    background: url(Qhttps://media.istockphoto.com/photos/pastel-pink-brick-wall-texture-background-picture-id1300828101?b=1&k=20&m=1300828101&s=170667a&w=0&h=PGaoIOyu3HWTdFkbbLj4_4C_T4meRfh-AIXcKa0Ph4=);
+                    background-size: cover;
+}
+#body{
+                    display: flex;
+                    flex-wrap: wrap;
+}
+#page{
+                    margin: auto;
+                    margin-top: 5vh;
+                    background-color: rgb(237, 95, 142);
+                    width: 40vw;
+                    height: 90vh;
+                    border-radius: 2vw;
+}
+#nav{
+                    margin-top: 5vh;
+                    height: 10vh;
+                    width: 40vw;
+                    display: flex;
+                    gap: 5vh;
+                    justify-content: center;
+                    
+}
+#kaydet{
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    width: 10vw;
+                    height: 7vh;
+                    margin: auto;
+                    margin-top: 5vh;
+                    border-radius: 2vh;
+}
+#instagram{
+                    background-color: pink;
+                    width: 5vw;
+                    height: 10vh;
+                    border-radius: 20vh;
+                    background: url(https://i.pinimg.com/736x/4e/0c/66/4e0c6673b4f936cb2af6c4af056009bd.jpg             )no-repeat;
+                    background-size: cover;
+}
+#facebook{
+                    background-color: black;
+                    width: 5vw;
+                    height: 10vh;
+                    border-radius: 20vh;
+                    background: url(https://pbs.twimg.com/media/EiOL69BXgAAi8h2.jpg)no-repeat;
+                    background-size: cover;
+}
+#twitter{
+                    background-color: black;
+                    width: 5vw;
+                    height: 10vh;
+                    border-radius: 20vh;
+                    background: url(https://pbs.twimg.com/media/EiZTInoWoAEmXUS.jpg)no-repeat;
+                    background-size: cover;
+}
+                
+#snapchat{
+                    background-color: black;
+                    width: 5vw;
+                    height: 10vh;
+                    border-radius: 20vh;
+                    background: url(https://i.pinimg.com/originals/f8/1f/5a/f81f5a5788120a6b21b7d4788806eb8b.jpg)no-repeat;
+                    background-size: cover;
+}
+#resim{
+                    margin-top: 5vh;
+                    width: 40vw;
+                    height: 30vh;
+                    background: url(https://i.pinimg.com/originals/3e/94/23/3e94232e0e424acbe25ccf00606b5d74.jpg)no-repeat;
+                    background-size: cover;
+}
+#yazi{
+                    color: white;
+                    text-align: center;
+}
+                
